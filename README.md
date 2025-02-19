@@ -21,4 +21,11 @@ Here are some ideas to get you started:
 	
   </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnh135&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+	[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnh135&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<div>
+	[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
