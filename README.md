@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%2032%20mins-blue)
+
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
@@ -52,7 +54,7 @@ TypeScript               4 repos             █████░░░░░░�
 
 
 
- Last Updated on 02/05/2025 18:48:20 UTC
+ Last Updated on 03/05/2025 18:46:11 UTC
 <!--END_SECTION:waka-->
 
   <div align=center>
